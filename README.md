@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything .NET related.
 
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=JeremieCavellec&show_icons=true&theme=dracula)
+![GHstats](https://github-readme-stats.vercel.app/api?username=jerulz&show_icons=true&theme=dracula)
 
 <!---
 - 🌱 I’m currently learning ...
