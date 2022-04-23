@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremie Cavellec.
-- 👀 I’m interested in everything .NET related.
+- 👀 I’m interested in software engineering, stock market and cryptocurrencies.
 
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=jerulz&show_icons=true&theme=dracula)
