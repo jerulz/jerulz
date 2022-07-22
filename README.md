@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremie Cavellec.
 
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=jerulz&show_icons=true&theme=dracula)
+![GHstats](https://github-readme-stats.vercel.app/api?username=jcavellec&show_icons=true&theme=dracula)
 
 <!---
 - 🌱 I’m currently learning ...
